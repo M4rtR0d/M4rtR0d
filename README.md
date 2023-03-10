@@ -1,16 +1,94 @@
 ### Hi there 👋
 
 <!--
-**M4rtR0d/M4rtR0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M4rtR0d/M4rtR0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+# Martin Rodriguez
 
-- 🔭 I’m currently working on ...
+I'm electronic engineer M.Sc. in Renewable energy, especialized in Telecommunications currently switching my professional profile from Radio Telecommunications to Cloud  infrastructure and Software. My programing background covers ***Python*** and ***Java***.
+
+***
+My [GitHub](https://github.com/M4rtR0d)
+***
+
+## Most used Commands
+
+```
+alias mostused='history | awk '\''{print $2}''\' | sort | uniq -c | sort -nr | head -n 10'
+```
+
+### Tracking task lists
+
+List of tasks for the first exercise.
+
+- [x] Brief presentation
+- [x] Table with most used commands
+
+|**Command**|**Description**|
+|:---------:|:--------------|
+|ls|Lista los archivos contenidos en la posision actual|
+|history|Muestra un listado historico de los comandos utilizados|
+|!n|Ejecuta el comando referenciado(n)|
+|echo texto > filename|Permite crear contenido y alamcenarlo dentro de un archivo|
+|cat filename|Muestra el contenido del archivo especificado|
+
+Undefined Academy
+
+![undefined shell](https://user-images.githubusercontent.com/62573083/223426460-733386e2-e59e-44ef-9dfb-6451757b59c7.png)
+<br/>
+
+Lo que he aprendido:
+
+1. Python
+   * Django
+   - Pandas
+   - Numpy
+   - Seaborn
+
+2. Java
+   
+3. Anaconda
+   * JupyterLab
+   * Spyder
+
+4. AZURE
+   > AZ-900 Certified
+   >
+   > DP-900 Certified
+   >
+   > AI-900 Certified
+   >
+   > SC-900 Certified
+     
+<br/>  
 - 🌱 I’m currently learning ...
+
+* Javascript
+<br/>
+
+**Coding...**
+
+```
+mylist = [x ** 0.5 for x in range(10) if x % 2 != 0]
+print(mylist)
+```
+   
+  
+👀 **Advertencias**
+  - Este texto es solo una prueba
+  - Estoy en un proceso de aprendizaje continuo
+  - Esta es una practica de refuerzo durante el bootcamp de Guillermo Rodas-Javascript
+
+🌟*Algunas **aclaraciones** son convenientes*
+
+- 🐘Aquí escribo una línea de prueba
+- 🐺Y continuo aquí con otra línea
+- 🐻Y con esta línea casi termino.
+- 🔭 I’m currently working on ...
+- 💬 Ask me about ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
