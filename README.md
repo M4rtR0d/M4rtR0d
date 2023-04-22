@@ -67,7 +67,7 @@ List of tasks for this exercise.
 alias mostused='history | awk '\''{print $2}''\' | sort | uniq -c | sort -nr | head -n 10'
 ```
 
-GitHub
+Git image
 <br/>
 ![GitHub](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 <br/>
