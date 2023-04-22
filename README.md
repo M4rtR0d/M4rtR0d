@@ -81,8 +81,8 @@ print(mylist)
   
 👀 **Advertencias**
   - Este texto es solo una prueba
-  - Estoy en un proceso de aprendizaje continuo
-  - Esta es una practica de refuerzo durante el bootcamp de Guillermo Rodas-Javascript
+  - Siempre habrá algo por aprender
+  - Esta es una practica de las capacidades de Markdown
 
 🌟*Algunas **aclaraciones** son convenientes*
 
