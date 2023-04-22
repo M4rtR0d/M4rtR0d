@@ -32,9 +32,9 @@ Lo que he aprendido:
    > SC-900 Certified
  
  5. IDE's
-   * Intellij Idea
-   * Apache NetBeans
-   * Visual Studio Code
+    * Intellij Idea
+    * Apache NetBeans
+    * Visual Studio Code
 
 
 ### Tracking task lists
