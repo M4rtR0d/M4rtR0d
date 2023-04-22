@@ -53,7 +53,7 @@ alias mostused='history | awk '\''{print $2}''\' | sort | uniq -c | sort -nr | h
 ```
 
 GitHub
-![GitHub](https://es.wikipedia.org/wiki/GitHub#/media/Archivo:GitHub_logo_2013.svg)
+![GitHub](https://es.wikipedia.org/wiki/Git#/media/Archivo:Git-logo.svg)
 <br/>
 
 
