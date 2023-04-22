@@ -3,14 +3,14 @@
 <!--
 **M4rtR0d/M4rtR0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# Martin Rodriguez
+# Martín Rodríguez
 
 I'm an electronic engineer, M.Sc. in Renewable energy, especialized in Telecommunications currently switching my professional profile from Radio Telecommunications to Cloud infrastructure and Software. My programing background covers ***Python*** and ***Java***.
 
 Lo que he aprendido:
 
 1. Python
-   * Django
+   - Django
    - Pandas
    - Numpy
    - Seaborn
@@ -58,7 +58,7 @@ List of tasks for this exercise.
 |ls|Lista los archivos contenidos en la posision actual|
 |history|Muestra un listado historico de los comandos utilizados|
 |!n|Ejecuta el comando referenciado(n)|
-|echo texto > filename|Permite crear contenido y alamcenarlo dentro de un archivo|
+|echo texto > filename|Permite crear contenido y almacenarlo dentro de un archivo|
 |cat filename|Muestra el contenido del archivo especificado|
 <br>
 
@@ -91,9 +91,9 @@ print(mylist)
 - 🐘Aquí escribo una línea de prueba
 - 🐺Y continuo aquí con otra línea
 - 🐻Y con esta línea casi termino.
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... AZ104 Certification
 - 💬 Ask me about ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ... Django projects
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
