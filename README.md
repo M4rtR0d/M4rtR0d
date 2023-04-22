@@ -23,18 +23,17 @@ Lo que he aprendido:
    * Spyder
 
 4. AZURE
-   > AZ-900 Certified
-   >
-   > DP-900 Certified
-   >
-   > AI-900 Certified
-   >
-   > SC-900 Certified
+   * AZ-900 Certified
+   * DP-900 Certified
+   * AI-900 Certified
+   * SC-900 Certified
  
  5. IDEs
-    * Intellij Idea
-    * Apache NetBeans
-    * Visual Studio Code
+    > Intellij Idea
+    > 
+    > Apache NetBeans
+    > 
+    > Visual Studio Code
 
 <br/>  
 - 🌱 I’m currently learning ...
@@ -61,7 +60,7 @@ List of tasks for this exercise.
 |echo texto > filename|Permite crear contenido y alamcenarlo dentro de un archivo|
 |cat filename|Muestra el contenido del archivo especificado|
 
-## Most used Commands
+### Most used Commands
 
 ```
 alias mostused='history | awk '\''{print $2}''\' | sort | uniq -c | sort -nr | head -n 10'
