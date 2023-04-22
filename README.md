@@ -59,13 +59,13 @@ List of tasks for this exercise.
 |echo texto > filename|Permite crear contenido y alamcenarlo dentro de un archivo|
 |cat filename|Muestra el contenido del archivo especificado|
 
-<br/> 
+
 ### Most used Commands
 
 ```
 alias mostused='history | awk '\''{print $2}''\' | sort | uniq -c | sort -nr | head -n 10'
 ```
-<br/> 
+
 Git image
 <br/>
 ![GitHub](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
