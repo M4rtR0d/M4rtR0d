@@ -31,7 +31,7 @@ Lo que he aprendido:
    >
    > SC-900 Certified
  
- 5. IDE's
+ 5. IDEs
     * Intellij Idea
     * Apache NetBeans
     * Visual Studio Code
