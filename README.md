@@ -14,6 +14,8 @@ Lo que he aprendido:
    - Pandas
    - Numpy
    - Seaborn
+   - Matplotlib
+   - Scikit-learn
 
 2. Java
    
