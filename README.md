@@ -18,6 +18,7 @@ Lo que he aprendido:
 2. Java
    
 3. Anaconda
+   * Jupyter Notebook
    * JupyterLab
    * Spyder
 
@@ -29,6 +30,11 @@ Lo que he aprendido:
    > AI-900 Certified
    >
    > SC-900 Certified
+ 
+ 5. IDE's
+   * Intellij Idea
+   * Apache NetBeans
+   * Visual Studio Code
 
 
 ### Tracking task lists
@@ -53,15 +59,16 @@ alias mostused='history | awk '\''{print $2}''\' | sort | uniq -c | sort -nr | h
 ```
 
 GitHub
+<br/>
 ![GitHub](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 <br/>
 
-
-     
 <br/>  
 - 🌱 I’m currently learning ...
 
 * Javascript
+* HTML
+* CSS
 <br/>
 
 **Coding...**
