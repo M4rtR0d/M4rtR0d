@@ -36,13 +36,22 @@ Lo que he aprendido:
     * Apache NetBeans
     * Visual Studio Code
 
+<br/>  
+- 🌱 I’m currently learning ...
+
+* Javascript
+* HTML
+* CSS
+<br/>
 
 ### Tracking task lists
 
-List of tasks for the first exercise.
+List of tasks for this exercise.
 
 - [x] Brief presentation
 - [x] Table with most used commands
+- [x] Adding an image form the web
+
 
 |**Command**|**Description**|
 |:---------:|:--------------|
@@ -63,14 +72,6 @@ GitHub
 ![GitHub](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 <br/>
 
-<br/>  
-- 🌱 I’m currently learning ...
-
-* Javascript
-* HTML
-* CSS
-<br/>
-
 **Coding...**
 
 ```
@@ -78,7 +79,6 @@ mylist = [x ** 0.5 for x in range(10) if x % 2 != 0]
 print(mylist)
 ```
    
-  
 👀 **Advertencias**
   - Este texto es solo una prueba
   - Siempre habrá algo por aprender
