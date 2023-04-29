@@ -94,5 +94,5 @@ print(mylist)
 
 
 ***
-My [GitHub](https://github.com/M4rtR0d)
+My [GitHub](https://github.com/M4rtR0d) :smiley:
 ***
