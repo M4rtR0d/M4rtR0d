@@ -86,7 +86,7 @@ print(mylist)
   - Siempre habrá algo por aprender
   
 
-🌟*Algunas **aclaraciones** son convenientes*
+:sunny: *Algunas **aclaraciones** son convenientes*
 
 - 🔭 I’m currently working on AZ104 Certification
 - 💬 Ask me about Telecommunications, IoT, Renewable energy
@@ -94,7 +94,7 @@ print(mylist)
 - ⚡ I don't use social networks, except Linkedin
 - 🐘 I love animals
 - 🐺 I enjoy outdoor sports
-- 🐻 Y con esta línea casi termino.
+- 🐻 Y con esta línea termino.
 
 
 ***
