@@ -25,7 +25,7 @@ Lo que he aprendido:
    * Spyder
 
 4. AZURE
-   * AZ-900 Certified
+   * [AZ-900](https://badgen.net/badge/icon/AZ-900?icon=azure&label) Certified
    * DP-900 Certified
    * AI-900 Certified
    * SC-900 Certified
