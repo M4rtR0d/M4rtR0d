@@ -70,8 +70,8 @@ Git image
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"
     style="width:300px; float: right; margin: 0 40px 40px 40px;"></img>
-    
-![GitHub](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+   
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width+"40%" height=40%/>
 <br>
 
 **Coding...**
