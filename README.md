@@ -47,7 +47,17 @@ List of tasks for this exercise.
 - [x] Brief presentation
 - [x] Table with most used commands
 - [x] Adding an image form the web
+- [x] Image from web
+- [x] Coding
+- [x] List with emojis
+- [x] Links
 <br>
+
+### Most used Commands
+
+```
+alias mostused='history | awk '\''{print $2}''\' | sort | uniq -c | sort -nr | head -n 10'
+```
 
 |**Command**|**Description**|
 |:---------:|:--------------|
@@ -58,13 +68,8 @@ List of tasks for this exercise.
 |cat filename|Muestra el contenido del archivo especificado|
 <br>
 
-### Most used Commands
 
-```
-alias mostused='history | awk '\''{print $2}''\' | sort | uniq -c | sort -nr | head -n 10'
-```
 <br>
-
 Git image
 
 <br>
@@ -78,9 +83,10 @@ mylist = [x ** 0.5 for x in range(10) if x % 2 != 0]
 print(mylist)
 ```
    
-👀 **Advertencias**
+:eyes: **Advertencias**
   - Esto es una demostración de las capacidades de Markdown
   - Siempre habrá algo por aprender
+  
 
 🌟*Algunas **aclaraciones** son convenientes*
 
@@ -94,5 +100,5 @@ print(mylist)
 
 
 ***
-My [GitHub](https://github.com/M4rtR0d) :smiley:
+My [GitHub](https://github.com/M4rtR0d) :smiley: 
 ***
