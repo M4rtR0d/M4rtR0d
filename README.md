@@ -52,7 +52,6 @@ List of tasks for this exercise.
 - [x] List with emojis
 - [x] Links
 <br>
-
 ### Most used Commands
 
 ```
