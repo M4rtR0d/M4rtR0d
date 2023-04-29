@@ -67,11 +67,7 @@ alias mostused='history | awk '\''{print $2}''\' | sort | uniq -c | sort -nr | h
 
 Git image
 <br>
-
-<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"
-    style="width:300px; float: right; margin: 0 40px 40px 40px;"></img>
-   
-  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="40%" height=40%/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="30%" height=30%/>
 <br>
 
 **Coding...**
