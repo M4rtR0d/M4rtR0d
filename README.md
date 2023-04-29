@@ -16,7 +16,7 @@ Lo que he aprendido:
 2. Java
    
 3. Anaconda
-   * Jupyter Notebook
+   - Jupyter Notebook
    * JupyterLab
    * Spyder
 
