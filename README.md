@@ -68,8 +68,6 @@ alias mostused='history | awk '\''{print $2}''\' | sort | uniq -c | sort -nr | h
 |cat filename|Muestra el contenido del archivo especificado|
 <br>
 
-
-<br>
 Git image
 
 <br>
@@ -100,5 +98,8 @@ print(mylist)
 
 
 ***
-My [GitHub](https://github.com/M4rtR0d) :smiley: 
+My [GitHub](https://github.com/M4rtR0d) :smiley:
+
+Github [emoji picker](https://user-images.githubusercontent.com/62573083/235305068-ccffa08c-a520-41c8-8272-34d08cb0dede.png)
+
 ***
