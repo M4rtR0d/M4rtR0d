@@ -82,22 +82,19 @@ print(mylist)
 ```
    
 👀 **Advertencias**
-  - Este texto es solo una prueba
+  - Esto es una demostración de las capacidades de Markdown
   - Siempre habrá algo por aprender
-  - Esta es una practica de las capacidades de Markdown
 
 🌟*Algunas **aclaraciones** son convenientes*
 
-- 🐘Aquí escribo una línea de prueba
-- 🐺Y continuo aquí con otra línea
-- 🐻Y con esta línea casi termino.
-- 🔭 I’m currently working on ... AZ104 Certification
-- 💬 Ask me about ...
-- 👯 I’m looking to collaborate on ... Django projects
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on AZ104 Certification
+- 💬 Ask me about Telecommunications, IoT, Renewable energy
+- 👯 I’m looking to collaborate on Django projects
+- ⚡ I don't use social networks, except Linkedin
+- 🐘 I love animals
+- 🐺 I enjoy outdoor sports
+- 🐻 Y con esta línea casi termino.
+
 
 ***
 My [GitHub](https://github.com/M4rtR0d)
