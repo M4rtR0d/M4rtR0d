@@ -46,7 +46,7 @@ List of tasks for this exercise.
 
 - [x] Brief presentation
 - [x] Table with most used commands
-- [x] Adding an image form the web
+- [x] Adding an image from web
 - [x] Image from web
 - [x] Coding
 - [x] List with emojis
