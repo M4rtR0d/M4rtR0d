@@ -100,6 +100,6 @@ print(mylist)
 ***
 My [GitHub](https://github.com/M4rtR0d) :smiley:
 
-Github [emoji picker](https://user-images.githubusercontent.com/62573083/235305068-ccffa08c-a520-41c8-8272-34d08cb0dede.png)
+Github [emoji picker](https://github-emoji-picker.rickstaa.dev/))
 
 ***
