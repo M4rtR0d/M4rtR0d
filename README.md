@@ -17,8 +17,8 @@ Lo que he aprendido:
    
 3. Anaconda
    - Jupyter Notebook
-   * JupyterLab
-   * Spyder
+   - JupyterLab
+   - Spyder
 
 4. AZURE
    * ![AZ-900](https://badgen.net/badge/icon/AZ-900?icon=azure&label) Certified
