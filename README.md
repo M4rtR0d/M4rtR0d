@@ -10,6 +10,7 @@ I'm an electronic engineer, M.Sc. in Renewable energy, especialized in Telecommu
 Lo que he aprendido:
 
 1. Python
+   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
    - Django
    - Pandas
    - Numpy
