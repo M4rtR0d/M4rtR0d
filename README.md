@@ -24,7 +24,7 @@ Lo que he aprendido:
    * ![AZ-900](https://badgen.net/badge/icon/AZ-900?icon=azure&label) Certified
    * ![DP-900](https://badgen.net/badge/icon/DP-900?icon=azure&label) Certified
    * ![AI-900](https://badgen.net/badge/icon/AI-900?icon=azure&label) Certified
-   * ![SC-900](https://badgen.net/badge/icon/SC-900?icon=azure&label) Certified
+   * ![SC-900](https://badgen.net/badge/icon/AI-900?icon=azure&label) Certified
  
  5. IDEs
     > Intellij Idea
